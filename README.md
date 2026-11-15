@@ -1,19 +1,16 @@
 # Raman Youssef
 
-Information Systems Engineering graduate (Intelligent Systems), based in Germany. My work focuses on applied computer vision, evaluation of machine-learning models, and deployment on GPU and edge systems.
+I build and evaluate computer vision systems, from training models to deploying them through APIs and on edge devices. I hold a B.Sc. in Information Systems Engineering (Intelligent Systems) from Syrian Virtual University.
 
-## Featured research
+## Featured research · Wheat Grain Inspection
 
-[**Wheat Grain Inspection**](https://github.com/Raman-YS/wheat-grain-research) compares YOLO instance segmentation, EfficientNet crop classification, and SAM 2.1 mask refinement. The repository includes experiment reports, per-class metrics for imbalanced data, and a protocol for evaluating the integrated pipeline on a holdout split by capture group.
+I built a comparison pipeline that keeps the initial YOLO detections fixed while testing different mask and label sources. In the archived crop evaluations, EfficientNet-V2-S reached 96.92% accuracy, while B0 reached 95.85% macro F1 and recalled 131 of 136 rare-class samples. The crop results motivate a controlled test of the full pipeline on held-out images grouped by capture session.
+
+[Project overview](https://github.com/Raman-YS/wheat-grain-research) · [Classifier results](https://github.com/Raman-YS/wheat-grain-research/blob/main/reports/CLASSIFIER_COMPARISON.md) · [Benchmark protocol](https://github.com/Raman-YS/wheat-grain-research/blob/main/docs/BENCHMARK.md)
 
 ## Selected experience
 
-- **AI Engineering Intern, RaedITServices** · Jul–Oct 2026. Trained YOLO and EfficientNet models for three-class wheat-grain inspection, exposed inference through FastAPI, and built background workers to schedule GPU-intensive jobs on shared hardware.
-- **AI Project Coordinator, NESTECH** · 2021–2022. Led a small engineering team developing computer-vision systems and validated model performance under the compute constraints of NVIDIA Jetson Nano devices.
+- **AI Engineering Intern, RaedITServices** · 2026. Trained YOLO and EfficientNet models for three-class grain inspection, integrated inference through FastAPI, and built background workers for GPU-intensive jobs on shared hardware.
+- **AI Project Coordinator, NESTECH** · 2021–2022. Led a small engineering team developing computer vision systems and evaluated model performance on NVIDIA Jetson Nano.
 
-## Technical focus
-
-- **Vision and ML:** Python, PyTorch, OpenCV, YOLO, EfficientNet, model evaluation
-- **Deployment:** FastAPI, REST APIs, PostgreSQL, Linux, CUDA, Jetson Nano
-
-**Education:** B.Sc. in Information Systems Engineering, Intelligent Systems track · Syrian Virtual University, 2026
+**Technical focus:** Python, PyTorch, OpenCV, Linux/CUDA, FastAPI, and edge deployment.
