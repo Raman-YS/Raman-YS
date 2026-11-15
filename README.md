@@ -1,6 +1,6 @@
 # Raman Youssef
 
-I’m an Information Systems Engineering graduate based in Germany. My experience spans computer vision model training and evaluation, API integration, and deployment on edge devices.
+I’m an Information Systems Engineering graduate based in Germany. My experience spans computer vision model training and evaluation, and deployment on edge devices.
 
 ## Experience
 
