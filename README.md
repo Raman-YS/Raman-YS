@@ -1,14 +1,18 @@
 # Raman Youssef
 
-I hold a B.Sc. in Information Systems Engineering (Intelligent Systems) from Syrian Virtual University. My experience includes training and evaluating computer vision models, integrating inference into web applications, and testing models on edge devices.
-
-## Featured project
-
-[Wheat Grain Inspection](https://github.com/Raman-YS/wheat-grain-research) is my research portfolio on wheat-grain detection, segmentation, and classification. It includes YOLO and EfficientNet experiments, an integrated comparison with SAM 2.1, and reports describing the recorded results and their limitations.
+I’m an Information Systems Engineering graduate based in Germany. My experience spans computer vision model training and evaluation, API integration, and deployment on edge devices.
 
 ## Experience
 
-- **AI Engineering Intern, RaedITServices** (Jul–Oct 2026). Trained YOLO and EfficientNet models for three-class wheat-grain inspection, integrated inference endpoints with FastAPI, and implemented background workers for GPU-intensive jobs.
-- **AI Project Coordinator, NESTECH** (Jul 2021–Oct 2022). Coordinated a team of three to four engineers working on computer vision projects and tested model performance on NVIDIA Jetson Nano.
+- **AI Engineering Intern, RaedITServices** (July–October 2026). Trained YOLO and EfficientNet models for three-class wheat-grain inspection. Integrated inference through FastAPI in a React/TypeScript application backed by PostgreSQL, and built background workers for GPU-intensive jobs on shared hardware.
+- **AI Project Coordinator, NESTECH** (July 2021–October 2022). Led a team of three to four engineers developing computer vision systems. Tested models on NVIDIA Jetson Nano and monitored CPU and GPU usage before hardware integration.
 
-**Tools:** Python, PyTorch, OpenCV, FastAPI, Linux, CUDA, Git.
+## Selected project
+
+[Wheat Grain Inspection](https://github.com/Raman-YS/wheat-grain-research) documents experiments in instance segmentation and grain classification. It includes a comparison pipeline using YOLO, EfficientNet, and SAM 2.1, along with experiment reports and a protocol for evaluating the pipeline on held-out images.
+
+## Education and tools
+
+**B.Sc. in Information Systems Engineering**, Intelligent Systems track, Syrian Virtual University (2026).
+
+**Tools:** Python, PyTorch, OpenCV, FastAPI, PostgreSQL, Linux, CUDA, and Git.
