@@ -9,7 +9,7 @@ I’m an Information Systems Engineering graduate based in Germany. My experienc
 
 ## Selected project
 
-[Wheat Grain Inspection](https://github.com/Raman-YS/wheat-grain-research) documents experiments in instance segmentation and grain classification. It includes a comparison pipeline using YOLO, EfficientNet, and SAM 2.1, along with experiment reports and a protocol for evaluating the pipeline on held-out images.
+[Wheat Grain Inspection](https://github.com/Raman-YS/wheat-grain-research-code) is a computer vision project for wheat-grain instance segmentation and classification. The source repository is private.
 
 ## Education and tools
 
