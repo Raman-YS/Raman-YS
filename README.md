@@ -4,12 +4,12 @@ I’m an Information Systems Engineering graduate based in Germany. My experienc
 
 ## Experience
 
-- **AI Engineering Intern, RaedITServices** (July–October 2026). Trained YOLO and EfficientNet models for three-class wheat-grain inspection. Integrated inference through FastAPI in a React/TypeScript application backed by PostgreSQL, and built background workers for GPU-intensive jobs on shared hardware.
+- **AI Engineering Intern, RaedITServices** (July–October 2026). Contributed to an AI-powered computer vision solution. Prepared and annotated image datasets, trained and fine-tuned YOLO object detection models, evaluated model performance using standard metrics, optimised inference for real-time use, and supported integration into production software.
 - **AI Project Coordinator, NESTECH** (July 2021–October 2022). Led a team of three to four engineers developing computer vision systems. Tested models on NVIDIA Jetson Nano and monitored CPU and GPU usage before hardware integration.
 
 ## Selected project
 
-[Wheat Grain Inspection](https://github.com/Raman-YS/wheat-grain-research-code) is a computer vision project for wheat-grain instance segmentation and classification. The source repository is private.
+An AI-powered computer vision project focused on YOLO object detection, model evaluation, and inference optimisation. The source code is private.
 
 ## Education and tools
 
